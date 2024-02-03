@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    padding: 50px;
+    background-color: brown;
+}
+.container{
+  background-color: blueviolet;
+  padding: 20px;
+}
+.col-md-4{
+   margin-top: 40px;
+}
+.card-body{
+    background-color: rgb(62, 62, 65);
+}
+.card-title{
+    color: yellow;
+}
+.card-text{
+    color: yellowgreen;
+}
+.card-text b{
+    color: aqua;
+}
